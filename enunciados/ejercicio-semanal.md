@@ -23,7 +23,7 @@ Este tipo de prácticas son las que se esperan en un entorno profesional y es im
 - Se entregará un nuevo Service Principal de Microsoft Azure para el desarrollo de este ejercicio. Su nombre será de la forma `spnl3-<alias_email>-1`. Se pueden encontrar sus credenciales en el keyvault que se ha estado utilizando hasta el momento.
 - El módulo desarrollado deberá ser alojado en el repositorio donde se entregaron los ejercicios de la formación. Alójalo en `/soluciones/modulo-weekly-exercise/`.
 - Se entregará un nuevo repositorio de GitHub sobre el que se habrá de desarrollar el workflow de GitHub Actions. Aquí es donde se debe alojar el "*ejemplo de uso*" que se mencionará en el enunciado.
-
+spnl3-palonso-1
 ## Enunciado
 
 Se desea desarrollar en terraform un módulo que permita desplegar el siguiente workload:
